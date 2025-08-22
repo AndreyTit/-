@@ -1,0 +1,500 @@
+[
+  {
+    "id": 1,
+    "title": "САЛАТ С КОПЧЕНЫМ СЫРОМ",
+    "link": "https://t.me/samobranka_recipes/190",
+    "category": "Салаты"
+  },
+  {
+    "id": 2,
+    "title": "САЛАТ МУЖСКИЕ СЛЕЗЫ",
+    "link": "https://t.me/samobranka_recipes/180",
+    "category": "Салаты"
+  },
+  {
+    "id": 3,
+    "title": "БИГ МАК В ЛЕПЕШКЕ",
+    "link": "https://t.me/samobranka_recipes/181",
+    "category": "Закуски"
+  },
+    {
+    "id": 4,
+    "title": "КУРИНЫЕ КРЫЛЬЯ В МАРИНАДЕ",
+    "link": "https://t.me/samobranka_recipes/182",
+    "category": "Закуски"
+  },
+  {
+    "id": 5,
+    "title": "ПЕЧЕНОЧНЫЕ КОТЛЕТЫ",
+    "link": "https://t.me/samobranka_recipes/183",
+    "category": "Горячие блюда"
+  },
+  {
+    "id": 6,
+    "title": "КРЕВЕТКИ В СЛИВОЧНОМ СОУСЕ",
+    "link": "https://t.me/samobranka_recipes/184",
+    "category": "Закуски"
+  },
+  {
+    "id": 7,
+    "title": "НЕЖНЕЙШИЙ САЛАТ А-ЛЯ МИМОЗА",
+    "link": "https://t.me/samobranka_recipes/185",
+    "category": "Салаты"
+  },
+  {
+    "id": 8,
+    "title": "САЛАТ С ЯИЧНЫМИ БЛИНАМИ",
+    "link": "https://t.me/samobranka_recipes/186",
+    "category": "Салаты"
+  },
+  {
+    "id": 9,
+    "title": "СЫРНЫЙ КРЕМ-СУП №1",
+    "link": "https://t.me/samobranka_recipes/187",
+    "category": "Супы"
+  },
+  {
+    "id": 10,
+    "title": "ПТИТИМ С БЕКОНОМ И ГРИБАМИ",
+    "link": "https://t.me/samobranka_recipes/188",
+    "category": "Горячие блюда"
+  },
+  {
+    "id": 11,
+    "title": "БОЛГАРСКИЙ ПЕРЕЦ ПО-КОРЕЙСКИ",
+    "link": "https://t.me/samobranka_recipes/213",
+    "category": "Горячие блюда"
+  },
+  {
+    "id": 12,
+    "title": "ЗАКУСКА ИЗ ГОВЯЖЬЕГО ЯЗЫКА",
+    "link": "https://t.me/samobranka_recipes/215",
+    "category": "Закуски"
+  },
+  {
+    "id": 13,
+    "title": "СВЕКОЛЬНЫЙ САЛАТ",
+    "link": "https://t.me/samobranka_recipes/216",
+    "category": "Салаты"
+  },
+  {
+    "id": 14,
+    "title": "КАРТОФЕЛЬНЫЕ ВАФЛИ",
+    "link": "https://t.me/samobranka_recipes/217",
+    "category": "Закуски"
+  },
+  {
+    "id": 15,
+    "title": "САЛАТ ПО-КОРЕЙСКИ",
+    "link": "https://t.me/samobranka_recipes/218",
+    "category": "Закуски"
+  },
+  {
+    "id": 16,
+    "title": "САЛАТ С КОПЧЕНОЙ СКУМБРИЕЙ",
+    "link": "https://t.me/samobranka_recipes/219",
+    "category": "Салаты"
+  },
+  {
+    "id": 17,
+    "title": "КУРИНЫЕ КРЫЛЬЯ В ПАНИРОВКЕ",
+    "link": "https://t.me/samobranka_recipes/220",
+    "category": "Закуски"
+  },
+  {
+    "id": 18,
+    "title": "САЛАТ С КАРБОНАДОМ",
+    "link": "https://t.me/samobranka_recipes/221",
+    "category": "Салаты"
+  },
+  {
+    "id": 19,
+    "title": "ТОМАТНАЯ ОВСЯНКА",
+    "link": "https://t.me/samobranka_recipes/223",
+    "category": "Завтраки"
+  },
+    {
+    "id": 20,
+    "title": "БРУСКЕТТА «ЦЕЗАРЬ»",
+    "link": "https://t.me/samobranka_recipes/224",
+    "category": "Закуски"
+  },
+  {
+    "id": 21,
+    "title": "ЖУЛЬЕН В ТАРТАЛЕТКАХ",
+    "link": "https://t.me/samobranka_recipes/225",
+    "category": "Закуски"
+  },
+   {
+    "id": 22,
+    "title": "ЖУЛЬЕН В ТАРТАЛЕТКАХ",
+    "link": "https://t.me/samobranka_recipes/225",
+    "category": "Закуски"
+  },
+     {
+    "id": 23,
+    "title": "САЛАТ «КОУЛ СЛОУ»",
+    "link": "https://t.me/samobranka_recipes/226",
+    "category": "Салаты"
+  }, 
+   {
+    "id": 24,
+    "title": "СОЧНАЯ ШАУРМА В ЛАВАШЕ",
+    "link": "https://t.me/samobranka_recipes/227",
+    "category": "Стритфуд"
+  },
+   {
+    "id": 25,
+    "title": "КИМЧИ ИЗ ОГУРЦОВ",
+    "link": "https://t.me/samobranka_recipes/228",
+    "category": "Закуски"
+  },
+   {
+    "id": 26,
+    "title": "САЛАТ С ТУНЦОМ",
+    "link": "https://t.me/samobranka_recipes/229",
+    "category": "Салаты"
+  },
+   {
+    "id": 27,
+    "title": "САЛАТ С КУКУРУЗОЙ И КОЛБАСОЙ",
+    "link": "https://t.me/samobranka_recipes/230",
+    "category": "Салаты"
+  },
+   {
+    "id": 28,
+    "title": "ГОВЯДИНА ПО-АЗИАТСКИ",
+    "link": "https://t.me/samobranka_recipes/231",
+    "category": "Горячие блюда"
+  },
+   {
+    "id": 29,
+    "title": "ОВОЩНОЙ САЛАТ ПО-ГРУЗИНСКИ",
+    "link": "https://t.me/samobranka_recipes/232",
+    "category": "Салаты"
+  },
+   {
+    "id": 30,
+    "title": "СЫРНЫЙ КРЕМ-СУП №2",
+    "link": "https://t.me/samobranka_recipes/233",
+    "category": "Супы"
+  },
+   {
+    "id": 31,
+    "title": "КОТЛЕТЫ ИЗ ГРЕЧКИ",
+    "link": "https://t.me/samobranka_recipes/234",
+    "category": "Горячие блюда"
+  },
+   {
+    "id": 32,
+    "title": "ДОМАШНИЙ А-ЛЯ ХАЧАПУРИ",
+    "link": "https://t.me/samobranka_recipes/235",
+    "category": "Выпечка"
+  },
+   {
+    "id": 33,
+    "title": "КРАБОВЫЙ САЛАТ",
+    "link": "https://t.me/samobranka_recipes/236",
+    "category": "Салаты"
+  },
+   {
+    "id": 34,
+    "title": "ТЕЩИНЫ МАНТЫ",
+    "link": "https://t.me/samobranka_recipes/237",
+    "category": "Горячие блюда"
+  },
+   {
+    "id": 35,
+    "title": "ДОМАШНИЙ СВЕКОЛЬНИК",
+    "link": "https://t.me/samobranka_recipes/238",
+    "category": "Супы"
+  },
+   {
+    "id": 36,
+    "title": "СОЧНЕЙШИЕ ХИНКАЛИ",
+    "link": "https://t.me/samobranka_recipes/239",
+    "category": "Горячие блюда"
+  },
+   {
+    "id": 37,
+    "title": "КРЕМ-СУП ИЗ КАБАЧКОВ",
+    "link": "https://t.me/samobranka_recipes/240",
+    "category": "Супы"
+  },
+   {
+    "id": 38,
+    "title": "САЛАТ С ПТИТИМОМ И КРЕВЕТКАМИ",
+    "link": "https://t.me/samobranka_recipes/241",
+    "category": "Салаты"
+  },
+   {
+    "id": 39,
+    "title": "КАБАЧКОВАЯ ПИЦЦА",
+    "link": "https://t.me/samobranka_recipes/242",
+    "category": "Пицца"
+  },
+   {
+    "id": 40,
+    "title": "ГАСПАЧО(холодный суп)",
+    "link": "https://t.me/samobranka_recipes/243",
+    "category": "Супы"
+  },
+   {
+    "id": 41,
+    "title": "СПРИНГ РОЛЛЫ С СЕМГОЙ",
+    "link": "https://t.me/samobranka_recipes/244",
+    "category": "Закуски"
+  },
+   {
+    "id": 42,
+    "title": "САЛАТ С ХРУСТЯЩИМИ БАКЛАЖАНАМИ",
+    "link": "https://t.me/samobranka_recipes/245",
+    "category": "Салаты"
+  },
+   {
+    "id": 43,
+    "title": "САЛАТ С КРАБОВЫМИ ПАЛОЧКАМИ",
+    "link": "https://t.me/samobranka_recipes/246",
+    "category": "Салаты"
+  },
+   {
+    "id": 44,
+    "title": "ЛЕПЕШКА ROTI С КУРИНЫМ ФИЛЕ",
+    "link": "https://t.me/samobranka_recipes/247",
+    "category": "Стритфуд"
+  },
+   {
+    "id": 45,
+    "title": "ЖУЛЬЕН НА МАНГАЛЕ",
+    "link": "https://t.me/samobranka_recipes/248",
+    "category": "Мангал"
+  },
+   {
+    "id": 46,
+    "title": "ДОМАШНИЙ ЯГОДНЫЙ ЛИМОНАД",
+    "link": "https://t.me/drink_up1/1039",
+    "category": "Напитки"
+  },
+   {
+    "id": 47,
+    "title": "ОБЛЕПИХОВЫЙ ЧАЙ",
+    "link": "https://t.me/drink_up1/1040",
+    "category": "Напитки"
+  },
+   {
+    "id": 48,
+    "title": "СМУЗИ ИЗ МАНГО",
+    "link": "https://t.me/drink_up1/1041",
+    "category": "Напитки"
+  },
+   {
+    "id": 49,
+    "title": "КОФЕ ПО-ВОСТОЧНОМУ",
+    "link": "https://t.me/drink_up1/1042",
+    "category": "Напитки"
+  },
+   {
+    "id": 50,
+    "title": "МОРОЖЕНОЕ СНИКЕРС",
+    "link": "https://t.me/v_i_p_pechka/6",
+    "category": "Десерты"
+  },
+   {
+    "id": 51,
+    "title": "ШОКОЛАДНЫЙ ТОРТ",
+    "link": "https://t.me/v_i_p_pechka/9",
+    "category": "Десерты"
+  },
+   {
+    "id": 52,
+    "title": "ТОМ ЯМ ЗА 15 МИНУТ",
+    "link": "https://t.me/na_sko_ruyu_ruku/6",
+    "category": "Супы"
+  },
+   {
+    "id": 53,
+    "title": "САЛАТ ШАРКУТЬЕ",
+    "link": "https://t.me/samobranka_recipes/249",
+    "category": "Салаты"
+  },
+   {
+    "id": 54,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 55,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 56,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 57,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 58,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 59,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 60,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 61,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 62,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 63,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 64,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 65,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 66,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 67,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 68,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 69,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 70,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 71,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 72,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 73,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 74,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 75,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 76,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 77,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 78,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 79,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 80,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 81,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 82,
+    "title": "",
+    "link": "",
+    "category": ""
+  },
+   {
+    "id": 83,
+    "title": "",
+    "link": "",
+    "category": ""
+  }
+]
