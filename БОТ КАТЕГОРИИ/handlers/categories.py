@@ -87,7 +87,7 @@ async def show_dish_card(callback: CallbackQuery):
         return
 
     text = (
-        f"🍽 <b>{dish['name']}</b>\n\n"
+        f"🍽 <b>{dish['title']}</b>\n\n"
         f"🥣 Ингредиенты: {', '.join(dish['ingredients'])}\n\n"
         f"🏷 Категория: {dish['category']}\n"
         f"🔗 <a href='{dish['link']}'>Перейти к рецепту</a>"
