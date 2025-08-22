@@ -27,7 +27,7 @@ async def show_categories(message: Message):
     kb.append([KeyboardButton(text="🏠 Главное меню")])
     await message.answer("Выберите категорию 🍽", reply_markup=ReplyKeyboardMarkup(keyboard=kb, resize_keyboard=True))
 
-# Показываем блюда категории (первые 5) через inline-кнопки
+# Показываем блюда категории (первые 5) через inline-кнопки (с ссылками!)
 @router.message(lambda msg: msg.text in get_categories())
 async def show_category_dishes(message: Message):
     category = message.text
@@ -36,7 +36,7 @@ async def show_category_dishes(message: Message):
     limited = dishes[:5]
 
     buttons = [
-        [InlineKeyboardButton(text=d["title"], callback_data=f"dish_{d['title']}")]
+        [InlineKeyboardButton(text=d["title"], url=d["link"])]
         for d in limited
     ]
     if len(dishes) > 5:
@@ -48,7 +48,7 @@ async def show_category_dishes(message: Message):
         parse_mode="HTML"
     )
 
-# Обработка кнопки "Далее" — следующая порция блюд
+# Обработка кнопки "Далее" — следующая порция блюд (тоже только ссылки)
 @router.callback_query(F.data.startswith("more_"))
 async def show_more_dishes(callback: CallbackQuery):
     parts = callback.data.split("_")
@@ -60,7 +60,7 @@ async def show_more_dishes(callback: CallbackQuery):
     next_dishes = dishes[offset:offset+5]
 
     buttons = [
-        [InlineKeyboardButton(text=d["title"], callback_data=f"dish_{d['title']}")]
+        [InlineKeyboardButton(text=d["title"], url=d["link"])]
         for d in next_dishes
     ]
 
@@ -73,26 +73,6 @@ async def show_more_dishes(callback: CallbackQuery):
     await callback.message.edit_reply_markup(
         reply_markup=InlineKeyboardMarkup(inline_keyboard=buttons)
     )
-    await callback.answer()
-
-# Обработка нажатия на блюдо → показать карточку
-@router.callback_query(F.data.startswith("dish_"))
-async def show_dish_card(callback: CallbackQuery):
-    dish_title = callback.data[5:]
-    data = load_recipes()
-    dish = next((d for d in data if d["title"] == dish_title), None)
-
-    if not dish:
-        await callback.answer("Блюдо не найдено 😔", show_alert=True)
-        return
-
-    text = (
-        f"🍽 <b>{dish['title']}</b>\n\n"
-        f"🏷 Категория: {dish['category']}\n"
-        f"🔗 <a href='{dish['link']}'>Перейти к рецепту</a>"
-    )
-
-    await callback.message.answer(text, parse_mode="HTML", disable_web_page_preview=True)
     await callback.answer()
 
 # Регистрируем обработчик
