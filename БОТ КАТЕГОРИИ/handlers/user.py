@@ -18,7 +18,7 @@ def get_main_menu() -> ReplyKeyboardMarkup:
 async def cmd_start(message: Message, state: FSMContext):
     await state.clear()  # Очищаем состояние при старте
     await message.answer(
-        "👋 Привет!",
+        "👋 Привет! Здесь собраны все рецепты с наших каналов. Можешь нажать FAQ - там я расскажу как пользоваться ботом",
         reply_markup=get_main_menu()
     )
 
