@@ -7,7 +7,7 @@ router = Router()
 async def contact_author(message: Message):
     await message.answer(
         "📬 <b>По вопросам сотрудничества, рекламы и предложений</b>\n\n"
-        "Пиши напрямую: @your_telegram",  # ← замени на свой username
+        "Пиши напрямую: @KindlA",  # ← замени на свой username
         parse_mode="HTML"
     )
 
